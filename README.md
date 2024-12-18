@@ -147,22 +147,20 @@
 
 ### Задание 1
 
-![img]()
+![img](https://github.com/01eg8/Zabbix-2--Oleg-Makin-/blob/main/img/Screenshot%20from%202024-12-18%2016-30-12.png)
 
 ### Задание 2
 
-![img]()
-
 ### Задание 3
 
-![img]()
+![img](https://github.com/01eg8/Zabbix-2--Oleg-Makin-/blob/main/img/Screenshot%20from%202024-12-18%2016-30-58.png)
 
 ### Задание 4
 
-![img]()
+![img](https://github.com/01eg8/Zabbix-2--Oleg-Makin-/blob/main/img/Screenshot%20from%202024-12-18%2016-31-32.png)
 
 ### Задание 5
 
-![img]()
+![img](https://github.com/01eg8/Zabbix-2--Oleg-Makin-/blob/main/img/Screenshot%20from%202024-12-18%2016-58-14.png)
 
 
